@@ -1,1 +1,2 @@
-echo "welcome t the demoproject1"
+echo "welcome to the demoproject1"
+echo "Tata byee byee"
